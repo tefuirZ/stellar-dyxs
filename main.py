@@ -10,7 +10,7 @@ import math
 import json
 import urllib3
 
-dyxx_urls = ['7qi.co'] 
+dyxx_urls = ['http://7qi.co'] 
 
 def getPlayUrl(pageurl,xlname):
     playurl = ""
